@@ -7,7 +7,7 @@ This project recreates the immersive scroll-based animation experience seen on m
 ---
 
 ## 🚀 Live Demo
-(Add your deployed link here)
+([Add your deployed link here](https://shahrishabh1513-jsk.github.io/Apple-ScrollMotion-Experience/))
 
 ---
 
@@ -30,3 +30,4 @@ This project recreates the immersive scroll-based animation experience seen on m
 - GSAP (GreenSock Animation Platform)
 - ScrollMagic
 - Canvas API
+
